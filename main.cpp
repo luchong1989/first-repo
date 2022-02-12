@@ -1,2 +1,2 @@
 #include "Warrior.h"
-int main() {}
+int main() {retrun 0;}
